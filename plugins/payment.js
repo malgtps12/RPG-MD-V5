@@ -12,12 +12,12 @@ let handler = async (m, { conn, usedPrefix }) => {
   let vn = `https://github.com/saipulanuar/Api-Github/raw/main/audio/Donasiku.mp3`
   conn.sendButton(m.chat, `
 ┏━ꕥ〔 *Donasi • Dana* 〕ꕥ━⬣
-┃✾ Gopay  [088279268363]
-┃✾ Dana  [088279268363]
-┃✾ Saweria  [https://saweria.co/raraharsita2]
+┃✾ Gopay  [089516353968]
+┃✾ Dana  [089516353968]
+┃✾ Saweria  [https://saweria.co/Mall12]
 ┗━━━━ꕥ
 ┏━━ꕥ〔 *NOTE* 〕ꕥ━⬣
-┃ Ingin donasi? Wa.me/6288279268363
+┃ Ingin donasi? Wa.me/6289516353968
 ┃ _Hasil donasi akan digunakan buat sewa_
 ┃ _atau beli *RDP/VPS* agar bot bisa jalan_
 ┃ _24jam tanpa kendala_
