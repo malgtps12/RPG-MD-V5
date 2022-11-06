@@ -14,7 +14,7 @@ import moment from 'moment-timezone'
     surface : 404,
     message: `${ucapan()}`,
     orderTitle: `${ucapan()}`,
-    thumbnail:   await (await fetch(`https://i.ibb.co/jfZVKmC/babi2.jpg`)).buffer(),
+    thumbnail:   await (await fetch(`-`)).buffer(),
     sellerJid: '0@s.whatsapp.net' 
     }
     }
